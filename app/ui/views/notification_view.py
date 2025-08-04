@@ -16,7 +16,6 @@ class NotificationView(QWidget):
         super().__init__()
         self.notification = notification
         self.app_state = AppState()
-
         self.setMouseTracking(True)
         self._start_pos_x = None
         self._original_pos_x = None
@@ -39,7 +38,7 @@ class NotificationView(QWidget):
                 border-radius: 8px;
             }
             #hideLabel {
-                background-color: #ff9500;
+                background-color: #ff3b30;
                 color: white;
                 padding: 5px;
                 border-radius: 8px;
@@ -56,7 +55,7 @@ class NotificationView(QWidget):
         self.dismiss_label.setObjectName("dismissLabel")
         self.dismiss_label.setAlignment(Qt.AlignCenter)
         self.dismiss_label.hide()
-        self.hide_label = QLabel("Hide", self)
+        self.hide_label = QLabel("Dismiss", self)
         self.hide_label.setObjectName("hideLabel")
         self.hide_label.setAlignment(Qt.AlignCenter)
         self.hide_label.hide()
