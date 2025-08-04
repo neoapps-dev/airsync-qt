@@ -1,0 +1,28 @@
+Commercial End User License Agreement (EULA)
+============================================
+
+This End User License Agreement (the “Agreement”) is a legal agreement between you (either an individual or a legal entity) and Sameera Wijerathna for the use of the AirSync (2.0) application (the “Software”).
+
+By using or installing the Software, you agree to be bound by the terms of this Agreement.
+
+1. GRANT OF LICENSE  
+You are granted a non-exclusive, non-transferable license to use the Software for personal or commercial purposes, according to your purchase terms or subscription plan.
+
+2. RESTRICTIONS  
+You may not:
+- Modify, reverse engineer, or redistribute the Software.
+- Rent, lease, or sell access to the Software without permission.
+- Use the Software to create a competing product.
+
+3. OWNERSHIP  
+All rights, title, and interest in the Software remain with the original developer.
+
+4. TERMINATION  
+This license is effective until terminated. It will terminate automatically without notice if you fail to comply with any term. Upon termination, you must delete all copies of the Software.
+
+5. DISCLAIMER  
+This Software is provided “as is,” without warranty of any kind. In no event shall the author be liable for any damages arising from the use of the Software.
+
+For commercial licensing or custom use cases, contact: sameerasw.com@gmail.com
+
+© 2025 sameerasw.com. All Rights Reserved.

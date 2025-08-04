@@ -1,0 +1,10 @@
+pure-python-adb
+PySide6
+PySide6_Addons
+PySide6_Essentials
+shiboken6
+websockets
+requests
+desktop-notifier
+pillow
+qrcode
